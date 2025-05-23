@@ -9,7 +9,7 @@ I'm a 💻 full stack developer who loves building cool things, solving problems
 
 I am working with Python, Django, FastAPI(Restful APIs) with SqlServer on the backend and HTML, CSS, JavaScript, JQuery, React, PostgreSQL on the frontend and more to solve a variety of problems.
 
-I'm a passionate software development, currently diving deep into React, GraphQL, and automation projects. 
+I'm a passionate about software development, currently diving deep into React, GraphQL, and automation projects. 
 
 Let’s create something awesome together! 🚀
 
