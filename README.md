@@ -45,7 +45,7 @@ Let’s create something awesome together! 🚀
 
 🚧 Some projects I’m working on:
 
-- 🎯 **GitHub Projects Dashboard** – a dev-friendly tracker for repos using React + GraphQL  
+- 🎯 **GitHub Repositories Tracker** – a dev-friendly tracker for github repos using React + GraphQL  
 - 🔁 **CI/CD Automation** – streamlining workflows with GitHub Actions + Docker  
 - 📡 **Live Data Visualizer** – real-time charts using WebSockets and subscriptions  
 
