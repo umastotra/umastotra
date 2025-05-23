@@ -5,13 +5,13 @@
 
 Welcome to my GitHub profile! 
 
-I'm a 💻 full stack developer who loves building cool things, solving problems, and learning something new every day. 
+I’m a 💻 full stack developer who loves turning ideas into real stuff you can click, scroll, and interact with. Whether it's backend magic with 🐍 Python, 🧩 Django, FastAPI + SQL Server, or crafting slick frontends with 💅 HTML, 🎨 CSS, ⚛️ React, and even a little 🐘 PostgreSQL — I'm all in.
 
-I am working with Python, Django, FastAPI(Restful APIs) with SqlServer on the backend and HTML, CSS, JavaScript, JQuery, React, PostgreSQL on the frontend and more to solve a variety of problems.
+Right now, I’m geeking out over ⚛️ React, 🔍 GraphQL, and 🛠 automation tools that make dev life smoother.
 
-I'm a passionate about software development, currently diving deep into React, GraphQL, and automation projects. 
+I’m passionate about writing clean code, building things that work (and look good!), and sharing what I learn 📚 — one article, one blog post, side project, or team brainstorm at a time.
 
-Let’s create something awesome together! 🚀
+Let’s build something cool together 🚀
 
 ---
 
@@ -34,6 +34,10 @@ Let’s create something awesome together! 🚀
 
 
 ---
+### 📘 My Latest Articles
+<!-- BLOG-POST-LIST:START -->
+- [Docker — When and How to Use Docker to Speed Up Local Development] https://medium.com/@ustotra/it-works-on-my-machine-every-dev-before-docker-586ef60dab65
+<!-- BLOG-POST-LIST:END -->
 
 ### &#x1f4c8; My GitHub Stats
 
