@@ -1,7 +1,6 @@
 
 
 # 👋 Hey there! I'm Uma
-![image](https://github.com/user-attachments/assets/6909e474-b572-4f44-b848-114e8ab1557b)
 
 
 Welcome to my GitHub profile! 
