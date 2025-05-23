@@ -35,7 +35,9 @@ Let’s create something awesome together! 🚀
 
 ---
 
+### &#x1f4c8; My GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umastotra&hide=python&theme=radical)]
 
 ---
 
