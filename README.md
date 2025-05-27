@@ -50,8 +50,7 @@ Let’s build something cool together 🚀
 🚧 Some projects I’m working on:
 
 - 🎯 **GitHub Repositories Tracker** – a dev-friendly tracker for github repos using React + GraphQL  
-- 🔁 **CI/CD Automation** – streamlining workflows with GitHub Actions + Docker  
-- 📡 **Live Data Visualizer** – real-time charts using WebSockets and subscriptions  
+- 🔁 **TaskSync** – real-time task manager where users can create and organize thier tasks usingn React with FastAPI backend + Docker  
 
 ---
 
