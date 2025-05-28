@@ -50,7 +50,7 @@ Let’s build something cool together 🚀
 🚧 Some projects I’m working on:
 
 - 🎯 **GitHub Repositories Tracker** – a dev-friendly tracker for github repos using React + GraphQL  
-- 🔁 **TaskSync** – real-time task manager where users can create and organize thier tasks usingn React with FastAPI backend + Docker  
+- 🔁 **TaskSync** – < In Progress > real-time task manager where users can create and organize thier tasks usingn React with FastAPI backend + Docker  
 
 ---
 
@@ -60,7 +60,7 @@ I'm always open to new ideas, collaborations, or just nerding out over code 🤓
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/uma-sthothrabhashyam-8bb35216/)  
 - 📬 [Email](mailto:ustotra@gmail.com)  
-- 🌐 [Portfolio](Coming Soon)
+- 🌐 [Portfolio](https://my-portfolio-app-sable.vercel.app/)
 
 ---
 
