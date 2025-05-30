@@ -45,11 +45,12 @@ Let’s build something cool together 🚀
 
 ---
 
-## 🔨 Currently Building
+## 🔨 My Projects 
 
-🚧 Some projects I’m working on:
+🚧 Some projects I worked on:
 
-- 🎯 **GitHub Repositories Tracker** – a dev-friendly tracker for github repos using React + GraphQL  
+- 🎯 [GitHub Repositories Tracker](https://github.com/umastotra/github-repotracker)– a dev-friendly tracker for github repos using React + GraphQL
+- 🌐 [Portfolio](https://my-portfolio-app-sable.vercel.app/) 
 - 🔁 **TaskSync** – < In Progress > real-time task manager where users can create and organize thier tasks usingn React with FastAPI backend + Docker  
 
 ---
